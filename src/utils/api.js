@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/bfhl";
+const API_URL = "https://backend-1-fdv1.onrender.com/bfhl";
 
 export const fetchData = async (data) => {
     try {
